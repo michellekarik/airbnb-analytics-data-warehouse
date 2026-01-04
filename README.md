@@ -99,7 +99,7 @@ Built interactive dashboards to analyze:
 The dashboards are designed for exploratory analysis and business-friendly insights.
 
 
-#💡 Key Learnings
+# 💡 Key Learnings
 
 - Designing analytics-friendly schemas is more important than raw transformations
 - Large joins in Pandas can cause memory issues if not modeled correctly
