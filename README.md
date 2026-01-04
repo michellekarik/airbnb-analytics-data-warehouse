@@ -18,7 +18,8 @@ Interactive dashboards are built in Looker Studio to surface key insights such a
 - **Visualization:** Looker Studio
 - **Development:** Jupyter Notebook
 
-**Dimension Modelling using a star schema design in lucid.app**
-<img width="1237" height="649" alt="image" src="https://github.com/user-attachments/assets/f4bfe62a-5833-4cc4-965c-04c2cf42ea03" />
+**Data Dimension Modelling using a star schema design in lucid.app**
+<img width="1247" height="666" alt="image" src="https://github.com/user-attachments/assets/4e591326-be7c-4694-b1e6-1682217f3e3d" />
+
 
 
