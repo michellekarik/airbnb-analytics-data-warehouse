@@ -16,8 +16,14 @@ The goal of this project was to simulate how a data engineer / analytics enginee
 - **Visualization:** Looker Studio
 - **Development:** Jupyter Notebook
 
-**Data Dimension Modelling using a star schema design in lucid.app**
+# **Data Dimension Modelling using a star schema design in lucid.app**
 <img width="1247" height="666" alt="image" src="https://github.com/user-attachments/assets/4e591326-be7c-4694-b1e6-1682217f3e3d" />
+
+# **Airbnb Data Analytics Pipeline Architecture**
+<img width="976" height="748" alt="image" src="https://github.com/user-attachments/assets/9390b971-f721-4fb1-9f68-ed043a03498d" />
+
+# **Data Dashboard Result**
+<img width="786" height="915" alt="image" src="https://github.com/user-attachments/assets/75fa1a2d-1e2f-4e2d-9e22-4d920f40d329" />
 
 
 # ETL Workflow
